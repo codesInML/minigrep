@@ -1,3 +1,3 @@
 ### Minigrep CLI Tool
 
-> cargo run to input.txt
+> CASE_INSENSITIVE=1 cargo run to input.txt
